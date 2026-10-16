@@ -1,0 +1,11 @@
+node_modules/
+.project_id
+.github_repo
+.env
+.env.*
+
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
